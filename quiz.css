@@ -1,0 +1,61 @@
+article {
+	border: 1px solid lightblue;
+	display: inline-block;
+	max-width: 30%
+}
+.tops {
+	margin: 1em;
+}
+
+img {
+	display: block;
+	margin-left: auto;
+	margin-right: auto;
+}
+.words {
+	text-align: justify;
+}
+
+.thick {
+	font-weight: 800;
+}
+
+.ones h1 {
+	border: 1px dotted lightgray;
+	text-align: center;
+}
+
+.twos h1 {
+	border: 1px dotted lightgray;
+	text-align: center;
+}
+
+.threes h1 {
+	border: 1px dotted lightgray;
+	text-align: center;
+}
+
+.fours h1 {
+	border: 1px dotted lightgray;
+	text-align: center;
+}
+
+.one {
+	background-color: darkgray;
+	color:yellow;
+}
+
+.two {
+	background-color: darkgray;
+	color: yellow;
+}
+
+.three {
+	background-color: darkgray;
+	color: yellow;
+}
+
+.four {
+	background-color: darkgray;
+	color: yellow;
+}
